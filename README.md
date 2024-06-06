@@ -1,1 +1,1 @@
-Django API for Ecommerce Web Application.
+Django API for E-Commerce Web Application.
